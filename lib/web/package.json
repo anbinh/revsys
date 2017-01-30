@@ -1,0 +1,22 @@
+{
+  "name": "reservation_system",
+  "version": "1.0.0",
+  "description": "Co-working Reservation System",
+  "author": "HoThinh <tinhoc@outlook.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.16.0",
+    "connect-flash": "^0.1.1",
+    "ejs": "latest",
+    "express": "^4.13.3",
+    "express-session": "^1.15.0",
+    "morgan": "^1.7.0",
+    "mysql": "^2.13",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0"
+  }
+}

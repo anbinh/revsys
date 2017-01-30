@@ -1,0 +1,695 @@
+/*OVERWRITTEN STYLE*/
+.btn-primary {
+  color: #fff;
+  background-color:  #3498db;
+  border-color: #3498db;
+}
+.btn-primary:hover {
+  color: #fff;
+  background-color: #2980b9;
+  border-color: #2980b9;
+}
+a {
+  color: #3498db;
+}
+a:hover {
+  color: #2980b9
+}
+body,p {
+  color: #2c3e50;
+}
+
+
+
+.list-controls {
+  float: left;
+  position: relative;
+  top: -50px;
+  width: 30%;
+  max-width: 221px;
+  line-height: 30px;
+  text-align: center;
+  display: none;
+  font-size: 22px;
+}
+
+.list-month-title {
+  margin: 0 25px 0 0;
+  line-height: 30px;
+  /* event-control-bar height */
+  font-weight: bold;
+  color: #2c3e50;
+}
+
+.list-event-prev {
+  float: left;
+  width: 17px;
+  height: 17px;
+  position: absolute;
+  right: 16px;
+  top: 0px;
+   /*color: cyan;*/
+   margin-top: 4px;
+
+}
+
+.list-event-next {
+  float: left;
+  width: 17px;
+  height: 17px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  /*color: cyan;*/
+  margin-top: 4px;
+
+}
+
+.list-event-prev.hasPrev {
+  /*color: hotpink;*/
+  cursor: pointer;
+  margin-top: 4px;
+
+}
+
+.list-event-next.hasNext {
+  /*color: hotpink;*/
+  cursor: pointer;
+  margin-top: 4px;
+
+}
+
+/* calendar controls */
+.calendar-month {
+  display: block;
+  width: 250px;
+  float: left;
+  margin: 0 0 0 0;
+  line-height: 30px;
+  /* event-control-bar height */
+  position: relative;
+  top: -41px;
+  left: 10px;
+  font-weight: bold;
+  padding-right: 50px;
+  text-align: center;
+  *text-align: right;
+  /*ie7 hack to make the layout at least look decent */
+  background: 0;
+  padding: 0;
+  text-transform: none;
+}
+
+.calendar-prev {
+  float: right;
+  width: 17px;
+  height: 17px;
+  cursor: pointer;
+  display: block;
+  position: absolute;
+  right: 16px;
+  top: 0px;
+  text-align: left;
+  color: hotpink;
+  font-size: 0.72em;
+}
+.calendar-prev.inactive {
+  color: cyan;
+}
+
+.calendar-next {
+  float: right;
+  width: 17px;
+  height: 17px;
+  cursor: pointer;
+  color: hotpink;
+  display: block;
+  position: absolute;
+  right: 0;
+  top: 0px;
+  text-align: left;
+  font-size: 0.72em;
+}
+.calendar-next.inactive {
+  color: cyan;
+}
+
+/* ---------- List ---------- */
+.list-time {
+  width: 60px;
+  float: left;
+  margin-right: -68px;
+  font-weight: bold;
+  text-align: center;
+  text-transform: uppercase;
+  border: 1px solid;
+  /*border-radius: 5px;*/
+  line-height: 1.3;
+  /*-webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;*/
+}
+
+p.list-time-day,
+p.list-time-month {
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+
+p.list-time-day {
+  font-size: 20px;
+  line-height: 1.5;
+  padding-top: 2px;
+  -webkit-border-radius: 4px 4px 0 0;
+  -moz-border-radius: 4px 4px 0 0;
+  border-radius: 4px 4px 0 0;
+}
+
+p.list-time-month {
+  font-size: 13px;
+  line-height: 1;
+  -webkit-border-radius: 0 0 4px 4px;
+  -moz-border-radius: 0  0 4px 4px;
+  border-radius: 0 0 4px 4px;
+  padding: 4px 0;
+}
+
+.list-day-detail {
+  padding-left: 88px;
+}
+
+p.list-weekday {
+  line-height: 1.1;
+  font-size: 24px;
+  font-weight: bold;
+  color: #999999;
+  border-bottom: 1px solid;
+  border-color: #999999;
+  padding: 10px 0 10px 0;
+  margin: 0 0 25px 0;
+}
+
+.nrf-message {
+  text-align: center;
+}
+
+.day-stage {
+  margin-top: 20px;
+}
+
+/* -------- Calendar ------- */
+#cal-responsive {
+  display: none;
+}
+
+.calendar {
+  width: 100%;
+  table-layout: fixed;
+}
+
+.calendar th {
+  text-align: center;
+  padding: 10px;
+  line-height: 1.1;
+}
+
+.calendar td {
+  padding: 3px;
+  height: 75px;
+  /* will grow ... not sure how but it does */
+  border: 1px solid;
+  vertical-align: top;
+}
+
+.calendar td > a {
+  /* this is the clickable number */
+  text-decoration: none;
+  line-height: 1.1;
+  display: block;
+  padding: 3px;
+  float: left;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  margin-bottom: 5px;
+}
+
+.calendar td ul {
+  margin: 0 0 0 15px;
+  padding: 0;
+  clear: both;
+}
+
+.calendar td ul li {
+  margin: 0 0 15px 0;
+  line-height: 1.1;
+}
+
+/*CCB EVENTS*/
+.list-event-prev,
+.list-event-next,
+.fc-button-next.fc-state-disabled,
+.fc-button-prev.fc-state-disabled {
+  /* $color1 */
+  color: #bdc3c7;
+}
+.list-event-prev.hasPrev,
+.list-event-next.hasNext,
+.fc-header tr .fc-header-left .fc-header-title h2,
+.fc-button-next,
+.fc-button-prev {
+  /* $color4 */
+  color: #3498db;
+}
+.list-time-month {
+  /* $color1 */
+  background-color: #3498db;
+  color: white;
+  padding: 7px;
+}
+.list-time-day {
+  padding: 4px;
+  font-size: 20px;
+  font-weight: 800;
+}
+.list-time{
+  /* $color1 */
+  border-color: #3498db;
+}
+.list-weekday {
+  font-size: 30px;
+  font-weight: bold;
+  border-bottom: 1px solid #bdc3c7;
+  padding-bottom: 12px;
+  padding-top: 15px;
+  color: #2c3e50;
+}
+
+
+/*FOOTER*/
+#footer {
+  padding: 4em 0px;
+  background-color: #2c3e50;;
+}
+
+footer#footer ul#footer-links {
+    margin-left: 0px;
+    padding-left: 0px;
+}
+
+footer#footer ul#footer-links  li {
+  display: inline-block;
+  list-style: none;
+  margin-right: 20px;
+}
+
+footer#footer ul#footer-links  li:last-child {
+  margin-right: 0px;
+}
+
+footer#footer ul#footer-links  li a {
+  color: white;
+}
+footer#footer ul#footer-links  li a:hover{
+  color: #bdc3c7;
+  text-decoration: none;
+  border-bottom: 0px solid;
+}
+
+footer#footer #footer-tagline,
+footer#footer #footer-copyright {
+  color: white;
+}
+
+
+/*HEADER IMAGE*/
+body {
+}
+.jumbotron {
+  margin : 0px;
+  position: relative;
+  min-height: 20em;
+  background-attachment: fixed;
+}
+
+.jumbotron:before {
+  content:'';
+  position: absolute;
+  width: 100%;
+  left: 0;
+  height: 100%;
+  top: 0;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+.jumbotron .container {
+  overflow: hidden;
+}
+.jumbotron .title {
+    position: absolute;
+    width: 100%;
+    display: block;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 0px;
+    text-align: center;
+}
+@media screen and (min-width: 768px){
+  .jumbotron {
+    min-height: 35em;
+  }
+  .jumbotron .title {
+    width: 100%;
+  }
+}
+
+.jumbotron .title h1,
+.jumbotron .title p {
+  color: white;
+}
+
+.jumbotron .title h1{
+      text-transform: uppercase;
+}
+
+.jumbotron .wavy-curve{
+    height: 25px;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+}
+@media screen and (min-width: 425px){
+  .jumbotron .wavy-curve{
+    height: 50px;
+  }
+}
+@media screen and (min-width: 768px){
+  .jumbotron .wavy-curve{
+    height: 100px;
+  }
+}
+.jumbotron .wavy-curve path.path {
+  fill : white;
+}
+
+.jumbotron nav#top {
+    position: absolute;
+    width: 100%;
+    bottom: -60px;
+    text-align: center;
+}
+.jumbotron nav#top ul {
+  margin: 0px;
+  padding: 0px;
+}
+.jumbotron nav#top ul > li {
+  display: inline-block;
+  list-style: none;
+    color: white;
+    display: inline-block;
+    text-align: center;
+    margin-right: 30px;
+    cursor: pointer;
+    
+}
+.jumbotron nav#top ul > li:last-child {
+  margin-right: 0px;
+}
+.jumbotron nav#top ul > li a {
+  color: white;
+  cursor: pointer;
+  ;
+}
+.jumbotron nav#top ul > li a:hover {
+  text-decoration: none;
+  border : 0px solid;
+}
+.jumbotron nav#top ul > li a .fa{
+    line-height: 80px;
+    font-size: 35px;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: #2ecc71;
+    /*transition: background-color 200ms;*/
+}
+.jumbotron nav#top ul > li a .desc {
+  color: #2c3e50;
+  margin-top: 10px;
+}
+
+.jumbotron nav#top ul > li.new-booking.active a .fa,
+.jumbotron nav#top ul > li.new-booking:hover a .fa {
+  background-color: #34495e;
+}
+.jumbotron nav#top ul > li.new-booking  a .fa{
+  background-color: #1abc9c;
+}
+.jumbotron nav#top ul > li.upcoming-bookings.active  a .fa,
+.jumbotron nav#top ul > li.upcoming-bookings:hover  a .fa {
+  background-color: #34495e;
+}
+.jumbotron nav#top ul > li.upcoming-bookings  a .fa {
+  background-color: #2ecc71;
+}
+.jumbotron nav#top ul > li.past-bookings.active  a .fa,
+.jumbotron nav#top ul > li.past-bookings:hover  a .fa{
+  background-color: #34495e;
+}
+.jumbotron nav#top ul > li.past-bookings  a .fa{
+  background-color: #e67e22;
+}
+
+.jumbotron .site-logo {
+  position: absolute;
+  left: 20px;
+  font-size: 3em;
+  text-transform: uppercase;
+  color: white;
+  font-weight: 800;
+}
+
+.jumbotron .site-logo a {
+  color: white;
+}
+.jumbotron .site-logo a:hover {
+  text-decoration: none;
+}
+
+.jumbotron .site-logo a img{
+  width: 300px;
+}
+
+
+@media screen and (max-width: 600px){
+  .jumbotron .site-logo a img {
+    width: 150px;
+  }
+}
+
+
+
+/*BOOKING-LIST*/
+.booking-wrapper {
+  padding: 6em 0px 5em 0px;
+}
+.filters {
+  padding: 20px;
+  background-color: #ecf0f1;
+  min-height: 75px;
+}
+.filters .booking-right {
+  float: right;
+}
+.filters .booking-right form{
+      display: inline-block;
+    vertical-align: top;
+}
+
+.filters .booking-right form fieldset {
+  position: relative;
+}
+
+.filters .booking-right form #module-search-term{
+  height: 33px;
+  padding: 10px;
+  display: block;
+  border: 0px;
+  outline: none;
+  width: 150px;
+}
+
+.filters .booking-right form .icon-search{
+      display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: transparent;
+    border: 0px;
+    /* float: right; */
+    position: absolute;
+    top: 6px;
+    right: 5px;
+}
+
+.filters .booking-right form .icon-search:before {
+  content: "\f002";
+}
+
+.booking-wrapper h1 {
+   margin-bottom: 1em;
+}
+
+/*SELECT MENU*/
+.select2-container {
+  margin-right: 5px;
+}
+.select2-container .select2-selection--single {
+  height: 33px;
+  border-radius: 0px;
+  border: 0px;
+  background-color: #95a5a6;
+  color: white;
+  line-height: 33px;
+}
+.select2-container--default .select2-results__option--highlighted[aria-selected] {
+  background-color: #95a5a6 ;
+}
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+  color: white;
+  line-height: 33px;
+}
+.select2-container--default .select2-selection--single .select2-selection__arrow b {
+  border-color: white transparent transparent transparent;
+  margin-top: 0px;
+}
+.select2-container--default.select2-container--open .select2-selection--single .select2-selection__arrow b {
+  margin-top: 0px;
+  border-color: transparent transparent white transparent;
+}
+
+
+/*HEADER PROFILE*/
+.dropdown-menu:before {
+  position: absolute;
+  top: -7px;
+  right: 23px;
+  display: inline-block;
+  border-right: 7px solid transparent;
+  border-bottom: 7px solid #ccc;
+  border-left: 7px solid transparent;
+  border-bottom-color: rgba(0, 0, 0, 0.2);
+  content: '';
+}
+
+.dropdown-menu:after {
+  position: absolute;
+  top: -6px;
+  right: 23px;
+  display: inline-block;
+  border-right: 6px solid transparent;
+  border-bottom: 6px solid #ffffff;
+  border-left: 6px solid transparent;
+  content: '';
+}
+.profile.dropdown {
+  position: absolute;
+  right: 20px;
+  top: 20px;
+}
+.profile.dropdown button{
+    border: 0px solid;
+    background-color: #7f8c8d;
+    color: white;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    outline: none;
+}
+.profile.dropdown button:hover {
+  background-color: #95a5a6;
+}
+.profile.dropdown > .dropdown-menu {
+  margin-top: 8px;
+  background-color: #ecf0f1;
+}
+.dropdown-menu > li > a:hover, 
+.dropdown-menu > li > a:focus {
+  background-color: #34495e;
+  color: white;
+}
+.dropdown-menu > li > a {
+  color: #2c3e50;
+  padding: 10px 20px;
+}
+
+.profile.dropdown .username{
+  color: white;
+  margin-right: 10px;
+  vertical-align: super;
+}
+
+@media screen and (max-width: 600px){
+  .profile.dropdown .username {
+    display: none;
+  }
+  .profile.dropdown button {
+    transform: scale(0.8);
+    transform-origin: top right;
+  }
+  .jumbotron nav#top {
+    transform: scale(0.8);
+  }
+}
+
+.flatpickr-day.endRange, .flatpickr-day.endRange.nextMonthDay, .flatpickr-day.endRange.prevMonthDay, .flatpickr-day.endRange:focus, .flatpickr-day.endRange:hover, .flatpickr-day.selected, .flatpickr-day.selected.nextMonthDay, .flatpickr-day.selected.prevMonthDay, .flatpickr-day.selected:focus, .flatpickr-day.selected:hover, .flatpickr-day.startRange, .flatpickr-day.startRange.nextMonthDay, .flatpickr-day.startRange.prevMonthDay, .flatpickr-day.startRange:focus, .flatpickr-day.startRange:hover {
+  background-color: #2c3e50;
+  border-color: #2c3e50
+}
+input.flatpickr.form-control[readonly] {
+  background-color: white;
+}
+
+.bs-wizard {margin-top: 40px;}
+
+/*Form Wizard*/
+.bs-wizard {border-bottom: solid 1px #e0e0e0; padding: 0 0 10px 0;}
+.bs-wizard > .bs-wizard-step {padding: 0; position: relative;}
+.bs-wizard > .bs-wizard-step + .bs-wizard-step {}
+.bs-wizard > .bs-wizard-step .bs-wizard-stepnum {color: #595959; font-size: 16px; margin-bottom: 5px;}
+.bs-wizard > .bs-wizard-step .bs-wizard-info {color: #999; font-size: 14px;}
+.bs-wizard > .bs-wizard-step > .bs-wizard-dot {position: absolute; width: 30px; height: 30px; display: block; background: #b6c7cc; top: 45px; left: 50%; margin-top: -15px; margin-left: -15px; border-radius: 50%;} 
+.bs-wizard > .bs-wizard-step > .bs-wizard-dot:after {content: ' '; width: 14px; height: 14px; background: #2c3e50; border-radius: 50px; position: absolute; top: 8px; left: 8px; } 
+.bs-wizard > .bs-wizard-step > .progress {position: relative; border-radius: 0px; height: 8px; box-shadow: none; margin: 20px 0;}
+.bs-wizard > .bs-wizard-step > .progress > .progress-bar {width:0px; box-shadow: none; background: #b6c7cc;}
+.bs-wizard > .bs-wizard-step.complete > .progress > .progress-bar {width:100%;}
+.bs-wizard > .bs-wizard-step.active > .progress > .progress-bar {width:50%;}
+.bs-wizard > .bs-wizard-step:first-child.active > .progress > .progress-bar {width:0%;}
+.bs-wizard > .bs-wizard-step:last-child.active > .progress > .progress-bar {width: 100%;}
+.bs-wizard > .bs-wizard-step.disabled > .bs-wizard-dot {background-color: #ecf0f1;}
+.bs-wizard > .bs-wizard-step.disabled > .bs-wizard-dot:after {opacity: 0;}
+.bs-wizard > .bs-wizard-step:first-child  > .progress {left: 50%; width: 50%;}
+.bs-wizard > .bs-wizard-step:last-child  > .progress {width: 50%;}
+.bs-wizard > .bs-wizard-step.disabled a.bs-wizard-dot{ pointer-events: none; }
+/*END Form Wizard*/
+
+.form-control[disabled], .form-control[readonly], fieldset[disabled] .form-control {
+  background: #ebf1f3;
+}
+
+form#booking-form .select2-container .select2-selection--single {
+  height: 36px;
+}
+form#booking-form .select2-container--default .select2-selection--single .select2-selection__rendered{
+  height: 36px;
+}
+
+.alert-danger {
+    background-color: #ffe4e1;
+    border-color: #ffe4e1;
+    color: #c0392b;
+}
+
+

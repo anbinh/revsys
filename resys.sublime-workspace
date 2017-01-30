@@ -1,0 +1,3356 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"ar",
+				"articleID"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"mess",
+				"messageOutput"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"in",
+				"inherit"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"margin-",
+				"margin-right"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"con",
+				"config/"
+			],
+			[
+				"glo",
+				"global"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"type",
+				"typeid"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"chur",
+				"churchList"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"_",
+				"_assets/"
+			],
+			[
+				"end",
+				"endtime"
+			],
+			[
+				"last",
+				"lastMonth"
+			],
+			[
+				"josn",
+				"json_encode"
+			],
+			[
+				"url",
+				"urldecode"
+			],
+			[
+				"passg",
+				"passagesContent"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"border-ri",
+				"border-right"
+			],
+			[
+				"ser",
+				"mcms_sermons_5.css"
+			],
+			[
+				"blog",
+				"mcms_blogs_1.css"
+			],
+			[
+				"page",
+				"pageTitleImage"
+			],
+			[
+				"jqu",
+				"jquery.ui.core.js"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"list-t",
+				"list-style"
+			],
+			[
+				"init",
+				"initUpcomingEventsSharingButtons"
+			],
+			[
+				"txt",
+				"text-transform"
+			],
+			[
+				"sub",
+				"submit\t.submit()"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"backgroun",
+				"background-image"
+			],
+			[
+				"margint",
+				"margin-bottom"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"margn",
+				"margin-bottom"
+			],
+			[
+				"border-bo",
+				"border-bottom"
+			],
+			[
+				"border-lef",
+				"border-left-width"
+			],
+			[
+				"border-top",
+				"border-top-width"
+			],
+			[
+				"border-bot",
+				"border-bottom-width"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"$roo",
+				"$rootWrapper"
+			],
+			[
+				"strip",
+				"strip_tags"
+			],
+			[
+				"border-o",
+				"border-bottom"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"valid",
+				"validColorHash"
+			],
+			[
+				"arti",
+				"articleSlug"
+			],
+			[
+				"arrayp",
+				"array_pop"
+			],
+			[
+				"artic",
+				"articleList"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"ancho",
+				"anchorNavList"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"boder-co",
+				"border-color"
+			],
+			[
+				"fi",
+				"jquery.fitImage.js"
+			],
+			[
+				"fot",
+				"font-family"
+			],
+			[
+				"show",
+				"showSidebarNav"
+			],
+			[
+				"prin",
+				"printMode"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"has",
+				"hasClass\t.hasClass()"
+			],
+			[
+				"query",
+				"queryObject"
+			],
+			[
+				"quey",
+				"queryObj"
+			],
+			[
+				"key",
+				"keywordsFilter"
+			],
+			[
+				"class",
+				"classFilter"
+			],
+			[
+				"det",
+				"detailedEvent"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"mouse",
+				"mouseleave\t.mouseleave()"
+			],
+			[
+				"mous",
+				"mouseenter\t.mouseenter()"
+			],
+			[
+				"un",
+				"unbind\t.unbind()"
+			],
+			[
+				"fina",
+				"finalItems"
+			],
+			[
+				"html",
+				"htmlspecialchars_decode"
+			],
+			[
+				"exl",
+				"explode"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"remo",
+				"removeClass\t.removeClass()"
+			],
+			[
+				"border-clo",
+				"border-color"
+			],
+			[
+				"border-bott",
+				"border-bottom-width"
+			],
+			[
+				"mou",
+				"mouseenter\t.mouseenter()"
+			],
+			[
+				"nav",
+				"navigation"
+			],
+			[
+				"ine",
+				"inline-block"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"remove",
+				"removeClass\t.removeClass()"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"star",
+				"startDate"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"BACK",
+				"background-color"
+			],
+			[
+				"trans",
+				"transition-property"
+			],
+			[
+				"togg",
+				"toggleClass\t.toggleClass()"
+			],
+			[
+				"ready",
+				"ready\tjQuery(document).ready"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"add",
+				"addClass\t.addClass()"
+			],
+			[
+				"feat",
+				"featEvents"
+			],
+			[
+				"fea",
+				"featEvents"
+			],
+			[
+				"str_rep",
+				"str_replace"
+			],
+			[
+				"sel",
+				"select\t.select()"
+			],
+			[
+				"js",
+				"_js/"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"_tit",
+				"__title__"
+			],
+			[
+				"wdi",
+				"width"
+			],
+			[
+				"vol",
+				"volunteerHome"
+			],
+			[
+				"curr",
+				"currentId"
+			],
+			[
+				"inner",
+				"innerHTML"
+			],
+			[
+				"inn",
+				"innerHTML"
+			],
+			[
+				"param",
+				"paramsObj"
+			],
+			[
+				"log",
+				"login-modal.php"
+			],
+			[
+				"es",
+				"esc_sql"
+			],
+			[
+				"ng-ds",
+				"ng-disabled\tAngularJS"
+			],
+			[
+				"ng-c",
+				"ng-click\tAngularJS"
+			],
+			[
+				"audi",
+				"audioItem"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/routes.js",
+			"settings":
+			{
+				"buffer_size": 5527,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/routes/booking-delete.js",
+			"settings":
+			{
+				"buffer_size": 543,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/routes/booking-update.js",
+			"settings":
+			{
+				"buffer_size": 900,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/inc/booking-list.ejs",
+			"settings":
+			{
+				"buffer_size": 4473,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/inc/booking-detail.ejs",
+			"settings":
+			{
+				"buffer_size": 2069,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/booking-edit.ejs",
+			"settings":
+			{
+				"buffer_size": 890,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/inc/booking-form-edit.ejs",
+			"settings":
+			{
+				"buffer_size": 3907,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/routes/booking-post.js",
+			"settings":
+			{
+				"buffer_size": 602,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/routes/booking-edit.js",
+			"settings":
+			{
+				"buffer_size": 2522,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/routes/bookings.js",
+			"settings":
+			{
+				"buffer_size": 5005,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 265.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"format",
+				"phpfmt: format now"
+			],
+			[
+				"setsynhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"setsynhtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"git push",
+				"Git: Push Current Branch"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"gitgr",
+				"Git: Graph All"
+			],
+			[
+				"setshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"git",
+				"Set Syntax: Git Graph"
+			],
+			[
+				"gitpushc",
+				"Git: Push Current Branch"
+			],
+			[
+				"gitpucu",
+				"Git: Pull Current Branch"
+			],
+			[
+				"gitquic",
+				"Git: Quick Commit"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"GIT",
+				"Git: Add..."
+			],
+			[
+				"GIT CONFI",
+				"Git: Log Current File"
+			],
+			[
+				"GIT PUSH ",
+				"Git: Push Current Branch"
+			],
+			[
+				"GITP",
+				"Git: Push"
+			],
+			[
+				"GIT STA",
+				"Git: Status"
+			],
+			[
+				"GITPUS",
+				"Git: Push"
+			],
+			[
+				"PUSH",
+				"Git: Push"
+			],
+			[
+				"gitadd",
+				"Git: Add..."
+			],
+			[
+				"gitstat",
+				"Git: Status"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"h",
+				"HTMLBeautify"
+			],
+			[
+				"be",
+				"Javascript Beautify"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"aut",
+				"Autoprefix CSS"
+			],
+			[
+				"form",
+				"CodeFormatter: Format as HTML Syntax"
+			],
+			[
+				"fom",
+				"Format Code"
+			],
+			[
+				"for",
+				"Format Code"
+			],
+			[
+				"For",
+				"Format Code"
+			],
+			[
+				"forma",
+				"Format Code"
+			],
+			[
+				"frm",
+				"Format Code"
+			],
+			[
+				"foramt",
+				"Format Code"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"new",
+				"File: New View into File"
+			],
+			[
+				"goimpo",
+				"GoSublime: Go to imports section"
+			],
+			[
+				"goimpi",
+				"GoSublime: Go to imports section"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"rename",
+				"Emmet: Rename Tag"
+			],
+			[
+				"f",
+				"GoSublime: Fmt the current file (without saving it)"
+			],
+			[
+				":$",
+				":$ - EOF"
+			],
+			[
+				":rename",
+				"File: Rename"
+			],
+			[
+				":0",
+				":0 - BOF"
+			],
+			[
+				":",
+				":$ - EOF"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"rmove",
+				"Package Control: Remove Package"
+			],
+			[
+				"INSTA",
+				"Package Control: Install Package"
+			],
+			[
+				"romove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"isntal",
+				"Package Control: Install Package"
+			],
+			[
+				"tinsta",
+				"Package Control: Install Package"
+			],
+			[
+				"newgo",
+				"GoSublime: New Go File"
+			],
+			[
+				"new go",
+				"GoSublime: New Go File"
+			],
+			[
+				"test",
+				"GoSublime: Run Tests"
+			],
+			[
+				"tes",
+				"GoSublime: Run Tests"
+			],
+			[
+				"GoSublime: ",
+				"GoSublime: Do a sanity check"
+			],
+			[
+				"GoSublime: n",
+				"GoSublime: Show documentation hint"
+			],
+			[
+				"GoSublime: e",
+				"GoSublime: Show errors"
+			],
+			[
+				"gosub",
+				"GoSublime: Show errors"
+			],
+			[
+				"go",
+				"GoSublime: Show last build output"
+			],
+			[
+				"runtet",
+				"GoSublime: Run Tests"
+			],
+			[
+				"brow",
+				"GoSublime: Browse Packages"
+			],
+			[
+				"gosubrbpa",
+				"GoSublime: Browse Packages"
+			],
+			[
+				"imp",
+				"GoSublime: Go to imports section"
+			],
+			[
+				"impo",
+				"Snippet: Import"
+			],
+			[
+				"goim",
+				"GoSublime: Go to imports section"
+			],
+			[
+				"fmt",
+				"GoSublime: Fmt and save"
+			],
+			[
+				"gonew",
+				"GoSublime: New Go File"
+			],
+			[
+				"share",
+				"GoSublime: Share (on play.golang.org)"
+			],
+			[
+				"newfg",
+				"GoSublime: New Go File"
+			],
+			[
+				"doc",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"gofmt",
+				"GoSublime: Fmt and save"
+			],
+			[
+				"go show",
+				"GoSublime: Show errors"
+			],
+			[
+				"fet",
+				"Fetch: File"
+			],
+			[
+				"open",
+				"Gist: Open Gist"
+			],
+			[
+				"gist",
+				"Gist: Open Gist"
+			],
+			[
+				"fetch",
+				"Fetch: Manage"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"synphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"copy tags",
+				"File: Copy as Tag script"
+			],
+			[
+				"copy",
+				"File: Copy as Tag style"
+			],
+			[
+				"ope",
+				"Gist: Open Gist"
+			],
+			[
+				"open gis",
+				"Gist: Open Gist"
+			],
+			[
+				"creat",
+				"Gist: Create Public Gist"
+			],
+			[
+				"subshow",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"sublime",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"bro",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"brw",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"intal",
+				"Package Control: Install Package"
+			],
+			[
+				"fetc",
+				"Fetch: File"
+			],
+			[
+				"fetchma",
+				"Fetch: Manage"
+			],
+			[
+				".o",
+				"Snippet: .removeData"
+			],
+			[
+				"json",
+				"Snippet: jQuery (Select or Create DOM Element)"
+			],
+			[
+				"ajs",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"aj",
+				"Snippet: jQuery AJAX call"
+			],
+			[
+				"ajas",
+				"Snippet: $.ajaxSetup"
+			],
+			[
+				"ajax",
+				"Snippet: ajaxSend"
+			],
+			[
+				"$.",
+				"Snippet: $.getJSON"
+			],
+			[
+				".b",
+				"Snippet: .bind"
+			],
+			[
+				"replace",
+				"Snippet: replaceWith"
+			],
+			[
+				"$",
+				"Snippet: $.each"
+			],
+			[
+				"$.get",
+				"Snippet: $.getJSON"
+			],
+			[
+				"text",
+				"Snippet: $.extend"
+			],
+			[
+				"toa",
+				"Snippet: toArray"
+			],
+			[
+				"jquey",
+				"Snippet: jQuery Plugin Boilerplate"
+			],
+			[
+				"jetj",
+				"Snippet: jQuery.getJSON"
+			],
+			[
+				"jquer",
+				"Snippet: jQuery.ajaxSetup"
+			],
+			[
+				"jque",
+				"Snippet: jQuery.each"
+			],
+			[
+				"jq",
+				"Snippet: jQuery.each"
+			],
+			[
+				"jQ",
+				"Snippet: jQuery AJAX call"
+			],
+			[
+				"jqu",
+				"Snippet: A basic jQuery selector"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"snipet le",
+				"Snippet: Get Elements"
+			],
+			[
+				"snippet",
+				"Snippet: html"
+			],
+			[
+				"snippet ",
+				"Snippet: POST['…']"
+			],
+			[
+				"syncofe",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"packa c is",
+				"Package Control: Install Package"
+			],
+			[
+				"syntap",
+				"Set Syntax: PHP"
+			],
+			[
+				"syntax javas",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 601.0
+	},
+	"console":
+	{
+		"height": 167.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/anbinh/www/resys",
+		"/Users/anbinh/www/resys/app",
+		"/Users/anbinh/www/resys/app/config",
+		"/Users/anbinh/www/resys/app/routes",
+		"/Users/anbinh/www/resys/app/views",
+		"/Users/anbinh/www/resys/app/views/components",
+		"/Users/anbinh/www/resys/app/views/inc",
+		"/Users/anbinh/www/resys/public",
+		"/Users/anbinh/www/resys/public/assets",
+		"/Users/anbinh/www/resys/public/assets/css",
+		"/Users/anbinh/www/resys/public/assets/javascripts"
+	],
+	"file_history":
+	[
+		"/Users/anbinh/www/resys/app/views/inc/booking-list.ejs",
+		"/Users/anbinh/www/resys/app/views/booking-edit.ejs",
+		"/Users/anbinh/www/resys/app/views/inc/booking-form.ejs",
+		"/Users/anbinh/www/resys/app/views/components/header.ejs",
+		"/Users/anbinh/www/resys/public/assets/css/styles.css",
+		"/Users/anbinh/www/resys/app/routes/history.js",
+		"/Users/anbinh/www/resys/app/routes/bookings.js",
+		"/Users/anbinh/www/resys/app/views/booking-list.ejs",
+		"/Users/anbinh/www/resys/public/assets/javascripts/main.js",
+		"/Users/anbinh/www/resys/app/views/inc/filters.ejs",
+		"/Users/anbinh/www/resys/app/config/passport.js",
+		"/Users/anbinh/www/resys/app/routes.js",
+		"/Users/anbinh/www/resys/app/routes/404.js",
+		"/Users/anbinh/www/resys/app/routes/500.js",
+		"/Users/anbinh/www/resys/app/views/404.ejs",
+		"/Users/anbinh/www/resys/app/views/message.ejs",
+		"/Users/anbinh/www/resys/app/routes/message.js",
+		"/Users/anbinh/www/resys/app/routes/login.js",
+		"/Users/anbinh/www/resys/app/views/components/head.ejs",
+		"/Users/anbinh/www/resys/server.js",
+		"/Users/anbinh/www/resys/app/routes/booking-post.js",
+		"/Users/anbinh/www/resys/app/routes/index.js",
+		"/Users/anbinh/www/resys/app/routes/booking-detail.js",
+		"/Users/anbinh/www/resys/app/routes/booking-new-step-2.js",
+		"/Users/anbinh/www/resys/app/routes/booking-new.js",
+		"/Users/anbinh/www/resys/app/views/index.ejs",
+		"/Users/anbinh/www/resys/app/views/inc/login.ejs",
+		"/Users/anbinh/www/resys/app/views/login.ejs",
+		"/Users/anbinh/www/resys/app/config/database.js",
+		"/Users/anbinh/www/resys/app/mysql/config.js",
+		"/Users/anbinh/www/resys/app/views/inc/available-bookings.ejs",
+		"/Users/anbinh/www/resys/app/views/post-a-booking.ejs",
+		"/Users/anbinh/www/resys/app/views/booking-book.ejs",
+		"/Users/anbinh/www/resys/app/views/booking-book-step2.ejs",
+		"/Users/anbinh/www/resys/app/views/inc/progress.ejs",
+		"/Users/anbinh/www/resys/app/views/inc/progess.ejs",
+		"/Users/anbinh/www/resys/app/views/inc/new-book-filters.ejs",
+		"/Users/anbinh/www/resys/app/views/components/footer.ejs",
+		"/Users/anbinh/Library/Application Support/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/Users/anbinh/www/resys/views/components/header.ejs",
+		"/Users/anbinh/www/resys/views/components/head.ejs",
+		"/Users/anbinh/www/resys/views/components/footer.ejs",
+		"/Users/anbinh/www/resys/views/index.ejs",
+		"/Users/anbinh/www/resys/views/components/footer.js",
+		"/Users/anbinh/www/resys/app/templates/index.ejs",
+		"/Users/anbinh/www/monk2017/briarcliffchurch/ccb_events_3.php",
+		"/Users/anbinh/www/monk2017/briarcliffchurch/index.php",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/f7a50318-e2bf-4aec-b655-961c6e600667/_js/volunteer-school.js",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/f7a50318-e2bf-4aec-b655-961c6e600667/_ajax/ajax_volunteer_search.php",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/f7a50318-e2bf-4aec-b655-961c6e600667/_ajax/ajax_volunteer_search_school.php",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/f7a50318-e2bf-4aec-b655-961c6e600667/_ajax/ajax_volunteer_search_preschool.php",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/f7a50318-e2bf-4aec-b655-961c6e600667/_js/volunteer-preschool.js",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/f7a50318-e2bf-4aec-b655-961c6e600667/mcms_volunteer_opportunities_1_preschool.php",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/f7a50318-e2bf-4aec-b655-961c6e600667/_inc/footer-preschool.php",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/f7a50318-e2bf-4aec-b655-961c6e600667/_inc/header-preschool.php",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/f7a50318-e2bf-4aec-b655-961c6e600667/_ajax/ajax_article_search_preschool.php",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/f7a50318-e2bf-4aec-b655-961c6e600667/_inc/head.php",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/f7a50318-e2bf-4aec-b655-961c6e600667/mcms_staff_2_preschool.php",
+		"/Users/anbinh/www/monk2017/bethanylutheran/preschool/mcms_staff_2_preschool.php",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/f7a50318-e2bf-4aec-b655-961c6e600667/index_preschool.php",
+		"/Users/anbinh/www/monk2017/bethanylutheran/preschool/_inc/footer-preschool.php",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/f7a50318-e2bf-4aec-b655-961c6e600667/mcms_articles_layout_2_preschool.php",
+		"/Users/anbinh/www/monk2017/bethanylutheran/preschool/_inc/wardrobe-include-preschool.php",
+		"/Users/anbinh/www/monk2017/bethanylutheran/preschool/_inc/sidebar-preschool.php",
+		"/Users/anbinh/www/monk2017/bethanylutheran/preschool/_inc/scripts-preschool.php",
+		"/Users/anbinh/www/monk2017/bethanylutheran/preschool/_inc/header-preschool.php",
+		"/Users/anbinh/www/monk2017/bethanylutheran/_inc/mobile-header.php",
+		"/Users/anbinh/www/monk2017/bethanylutheran/preschool/_inc/head-preschool.php",
+		"/Users/anbinh/www/monk2017/bethanylutheran/preschool/_inc/footer-latest-preschool.php",
+		"/Users/anbinh/www/monk2017/bethanylutheran/preschool/_inc/footer-feat-preschool.php",
+		"/Users/anbinh/www/monk2017/bethanylutheran/preschool/mcms_volunteer_opportunities_1_preschool.php",
+		"/Users/anbinh/www/monk2017/bethanylutheran/preschool/mcms_page_preschool.php",
+		"/Users/anbinh/www/monk2017/bethanylutheran/preschool/mcms_newhere_2_preschool.php",
+		"/Users/anbinh/www/monk2017/bethanylutheran/preschool/mcms_events_3_preschool.php",
+		"/Users/anbinh/www/monk2017/bethanylutheran/preschool/mcms_blog_layout_1_preschool.php",
+		"/Users/anbinh/www/monk2017/bethanylutheran/preschool/mcms_articles_layout_2_preschool.php",
+		"/Users/anbinh/www/monk2017/bethanylutheran/preschool/ekk_eventpage_preschool.php",
+		"/Users/anbinh/www/monk2017/bethanylutheran/preschool/index_preschool.php",
+		"/Users/anbinh/www/monk2017/bethanylutheran/_inc/event_filtering/event_cat_filters_preschool.php",
+		"/Users/anbinh/www/monk2017/bethanylutheran/_js/wardrobe/wardrobe-preschool.js",
+		"/Users/anbinh/www/monk2017/bethanylutheran/_ajax/ajax_article_search_preschool.php",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/f7a50318-e2bf-4aec-b655-961c6e600667/mcms_blog_layout_1_school.php",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/f7a50318-e2bf-4aec-b655-961c6e600667/mcms_volunteer_opportunities_1_school.php",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/f7a50318-e2bf-4aec-b655-961c6e600667/mcms_volunteer_opportunities_1.php",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/f7a50318-e2bf-4aec-b655-961c6e600667/mcms_staff_2_school.php",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/f7a50318-e2bf-4aec-b655-961c6e600667/mcms_newhere_2_school.php",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/f7a50318-e2bf-4aec-b655-961c6e600667/mcms_newsletter_2_school.php",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/f7a50318-e2bf-4aec-b655-961c6e600667/_inc/sidebar-school.php",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/f7a50318-e2bf-4aec-b655-961c6e600667/mcms_events_3_school.php",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/f7a50318-e2bf-4aec-b655-961c6e600667/_ajax/ajax_article_search_school.php",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/f7a50318-e2bf-4aec-b655-961c6e600667/mcms_articles_layout_2_school.php",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/f7a50318-e2bf-4aec-b655-961c6e600667/ekk_eventpage_school.php",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/f7a50318-e2bf-4aec-b655-961c6e600667/_inc/event_filtering/event_cat_filters_school.php",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/f7a50318-e2bf-4aec-b655-961c6e600667/mcms_page_school.php",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/f7a50318-e2bf-4aec-b655-961c6e600667/_inc/footer-school.php",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/f7a50318-e2bf-4aec-b655-961c6e600667/index_school.php",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/f7a50318-e2bf-4aec-b655-961c6e600667/_inc/header-school.php",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/f7a50318-e2bf-4aec-b655-961c6e600667/_inc/head-school.php",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/f7a50318-e2bf-4aec-b655-961c6e600667/_inc/footer-feat-school.php",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/f7a50318-e2bf-4aec-b655-961c6e600667/_inc/scripts-school.php",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/f7a50318-e2bf-4aec-b655-961c6e600667/_inc/wardrobe-include-school.php",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/f7a50318-e2bf-4aec-b655-961c6e600667/_css/override.css",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/f7a50318-e2bf-4aec-b655-961c6e600667/_css/styles.css",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/84d7e486-786e-46cf-a99b-dfb83ac1e6f6/_css/styles.css",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/84d7e486-786e-46cf-a99b-dfb83ac1e6f6/mcms_page.php",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/84d7e486-786e-46cf-a99b-dfb83ac1e6f6/mcms_page-fullwidth-tabs.php",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/84d7e486-786e-46cf-a99b-dfb83ac1e6f6/mcms_page-full-with-sections.php",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/84d7e486-786e-46cf-a99b-dfb83ac1e6f6/index.php",
+		"/Users/anbinh/www/monk2017/whiterivercc/_ccb/events/ccb.event.class.php",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/b49f38c9-2355-4e8e-b1cf-beb2a6b0d383/mcms_events_3.php",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/b15c0f87-3531-4521-be2f-9a8f028407af/_components/scripts.php",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/8672f98b-0239-43c4-b49e-aefaf122c738/web/content/_assets/css/layouts/mcms_events_3.css",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/8672f98b-0239-43c4-b49e-aefaf122c738/web/content/_assets/css/override.css",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/8672f98b-0239-43c4-b49e-aefaf122c738/web/content/_assets/js/layouts/groupfinder.js",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/8672f98b-0239-43c4-b49e-aefaf122c738/web/content/_assets/css/layouts/mcms_groupfinder_layout_2.css",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/8672f98b-0239-43c4-b49e-aefaf122c738/web/content/mcms_groupfinder_layout_2.php",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/8672f98b-0239-43c4-b49e-aefaf122c738/web/content/mcms_blogs_2.php",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/b49b3228-eb6f-4cae-86b7-5bd62e58b01a/web/content/_lib/vendor/serviceu/events/serviceu.events.class.php",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/10f9cbad-dae3-4b98-9e28-85338094476d/_assets/css/layouts/mcms_staff_2.css",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/cf6f6462-c115-47c3-a44e-67bf8b79d98c/_components/scripts.php",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/cf6f6462-c115-47c3-a44e-67bf8b79d98c/mcms_sermons_3.php",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/cf6f6462-c115-47c3-a44e-67bf8b79d98c/_components/head.php",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/cf6f6462-c115-47c3-a44e-67bf8b79d98c/_components/header.php",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/b9bafaf8-f596-490c-8543-0c3f32d851e8/index_dup.php",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/b9bafaf8-f596-490c-8543-0c3f32d851e8/_components/home-sermon3.php",
+		"/Users/anbinh/www/monk2017/swfs/_components/home-sermon3.php",
+		"/Users/anbinh/www/monk/twinlakesch/ccb_events_feed.php",
+		"/private/var/folders/2p/y5yfsdjd061g_nmg8gfkn71c0000gn/T/643279d8-2299-469e-a72c-c3733f242a2c/mcms_newhere_2.php"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 118.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"output",
+			"priority",
+			"title",
+			"startdate",
+			"user",
+			"req.params",
+			"/booking",
+			"team_id",
+			"agent_id",
+			"agents",
+			"agent_id",
+			"teamQuery",
+			"from",
+			"select",
+			"agent",
+			"bookings",
+			"404",
+			"obj",
+			"outputObj",
+			"finalDat",
+			"exampleInputPassword1",
+			"exampleInputEmail1",
+			"path",
+			"config",
+			"password",
+			"startdate",
+			"title",
+			"startdate",
+			"last_name",
+			"first_name",
+			"#627384",
+			"label",
+			"team",
+			"agent",
+			"exampleInputFile",
+			"-textarea",
+			"textarea",
+			"exampleInputPassword1",
+			"exampleInputEmail1",
+			"tab",
+			"#34495e",
+			"fbe8aa",
+			"progress",
+			"complete",
+			"progess",
+			"booking",
+			"found",
+			"h1",
+			"exampleInputAmount",
+			"inputPassword3",
+			"34495e",
+			"key",
+			"finalDat",
+			"file",
+			"connection",
+			"page_title",
+			"getIndividuals",
+			"/home/cache",
+			"FamilyPictureUrl",
+			"PictureUrl",
+			"volunteer_search",
+			"school",
+			"event-preschool",
+			"event-school",
+			"school",
+			"override",
+			"arent_category:volunteer",
+			"group_list_arr",
+			"show_detail",
+			"show_list",
+			"__url__",
+			"bgFeaturedLinks",
+			"bgHeaderImage",
+			"color1",
+			"outputEventDetail",
+			"filterGroupedLocations",
+			"grouped",
+			"setMapMarkers",
+			"getMapMarkers",
+			"ajax",
+			"fonts",
+			"Tab 1 - ",
+			"../_img/",
+			"<?php echo $LAYOUT_PATH; ?>",
+			"groupTypeFilter",
+			"groupTypes",
+			"GroupTypes",
+			"groupTypes",
+			"groupTypeFilter",
+			"GroupTypes",
+			"groupTypes",
+			"grouptypes",
+			"groupTypes",
+			".view-toggle",
+			"assets/",
+			"http://layouts.ekklesia360.com/_layouts/groupfinder_2",
+			"buttonColor",
+			"textColor",
+			"accentColor1",
+			"accentColor2",
+			"accentColor4",
+			"bgContent",
+			"giving",
+			"<?= $LAYOUT_PATH; ?>",
+			"htmlEncode",
+			"this",
+			"\"",
+			"details",
+			"detail",
+			"mWrap",
+			"h2",
+			"h3",
+			"$orgKey",
+			"orgKey",
+			"__dateThree",
+			"h2",
+			"vendor",
+			"search_term",
+			"background1",
+			"search_term",
+			"#search_term",
+			"search_term",
+			"background1",
+			"$color4",
+			".featured-icons article a",
+			"color4",
+			"icon",
+			"TemporaryItems"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"\\n",
+			"Noto Sans",
+			"",
+			"SelectMissingIds",
+			"SelectMissingKeys",
+			"dna.Sprintf",
+			" dna.Int",
+			" dna.String",
+			" dna.Int",
+			" dna.Bool",
+			" dna.String",
+			" dna.Int",
+			"dna.Sprintf",
+			" dna.Int",
+			" dna.String",
+			" dna.Int",
+			" dna.String",
+			" dna.Bool",
+			"dna.Sprintf",
+			" dna.Int",
+			" dna.String",
+			" dna.Bool",
+			" dna.String",
+			" dna.Int",
+			"dna.Sprintf",
+			" dna.Bool",
+			"[]dna.String",
+			" dna.String",
+			" dna.Int",
+			"dna.Sprintf",
+			"[]dna.String",
+			" []dna.String",
+			" dna.Bool",
+			" dna.Int",
+			" dna.String",
+			" dna.Int",
+			" dna.String",
+			" dna.Int",
+			"dna.String",
+			"dna.Int",
+			"\\t",
+			"",
+			"API",
+			"\\t",
+			"href",
+			"id",
+			"coverart",
+			"is_gracenote",
+			"artistid",
+			"date_created",
+			"coverart",
+			"date_created",
+			"test",
+			"\\t",
+			"    ",
+			"\\t",
+			"    ",
+			"\\t",
+			"@strToChars",
+			"GMAlbums",
+			"GMLog",
+			"Gomusic",
+			"GMSongs",
+			"GMAlbums",
+			"GMSongs"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/routes.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5527,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2842,
+								2842
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										2889,
+										2890
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										2662,
+										2663
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1187.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/routes/booking-delete.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 543,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								478,
+								478
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										478,
+										479
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										460,
+										461
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/routes/booking-update.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 900,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								572,
+								572
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										891,
+										892
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										100,
+										101
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/views/inc/booking-list.ejs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4473,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3181,
+								3181
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										3181,
+										3182
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										3168,
+										3169
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/EJS 2/EJS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1012.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/views/inc/booking-detail.ejs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2069,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2053,
+								1950
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										2062,
+										2063
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1839,
+										1840
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/EJS 2/EJS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 259.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/views/booking-edit.ejs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 890,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								223,
+								223
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/EJS 2/EJS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/views/inc/booking-form-edit.ejs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3907,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3747,
+								3747
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										3749,
+										3750
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										3733,
+										3734
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/EJS 2/EJS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/routes/booking-post.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 602,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								326,
+								300
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										326,
+										327
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/single_quote.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										299,
+										300
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app/routes/booking-edit.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2522,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1217,
+								1217
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1234,
+										1235
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1166,
+										1167
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 59.0,
+						"translation.y": 266.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "app/routes/bookings.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5005,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								666,
+								666
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1651,
+										1652
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										57,
+										58
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o:///Users/daonguyenanbinh/Box Documents/Sites/golang":
+	{
+		"height": 176.0
+	},
+	"output.9o:///Users/daonguyenanbinh/Box Documents/Sites/golang/src/dna/cc":
+	{
+		"height": 158.0
+	},
+	"output.9o:///Users/daonguyenanbinh/Box Documents/Sites/golang/src/dna/csn":
+	{
+		"height": 158.0
+	},
+	"output.9o:///Users/daonguyenanbinh/Box Documents/Sites/golang/src/dna/ke":
+	{
+		"height": 170.0
+	},
+	"output.9o:///Users/daonguyenanbinh/Box Documents/Sites/golang/src/dna/nv":
+	{
+		"height": 158.0
+	},
+	"output.GoSublime-main-output":
+	{
+		"height": 176.0
+	},
+	"output.GoSublime-output":
+	{
+		"height": 158.0
+	},
+	"output.GsComplete.completion-hint-output":
+	{
+		"height": 158.0
+	},
+	"output.GsDoc-output-output":
+	{
+		"height": 158.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 176.0
+	},
+	"output.exec":
+	{
+		"height": 262.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 122.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 122.0
+	},
+	"pinned_build_system": "",
+	"project": "resys.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"75",
+				"monkcache/page/p-704417/5958609036037a8abf0f81e930980f9f"
+			],
+			[
+				"populars",
+				"web-ui-app/src/scripts/controllers/lib/popular.js"
+			],
+			[
+				"popup.",
+				"web-ui-app/src/scripts/services/lib/popup.js"
+			],
+			[
+				"message.js",
+				"web-ui-app/src/scripts/services/lib/message.js"
+			],
+			[
+				"userrouter",
+				"server/users/usersRouter.js"
+			],
+			[
+				"userro",
+				"public/app/user/userRouter.js"
+			],
+			[
+				"style",
+				"public/app/assets/css/style.css"
+			],
+			[
+				"navigat",
+				"server/inc/navigation.ejs"
+			],
+			[
+				"home.",
+				"public/app/home/home.html"
+			],
+			[
+				"navi",
+				"server/inc/navigation.ejs"
+			],
+			[
+				"styl",
+				"public/app/assets/css/style.css"
+			],
+			[
+				"nav",
+				"server/inc/navigation.ejs"
+			],
+			[
+				"sty",
+				"public/app/assets/css/style.css"
+			],
+			[
+				"home",
+				"public/app/home/home.html"
+			],
+			[
+				"",
+				"js/langs.js"
+			],
+			[
+				"index",
+				"api/index.php"
+			],
+			[
+				"homce",
+				"css/home.css"
+			],
+			[
+				"rt",
+				"css/rtl.css"
+			],
+			[
+				"vehiclenew",
+				"js/views/vehicles/new.js"
+			],
+			[
+				"map.js",
+				"js/views/dealers/map.js"
+			],
+			[
+				"uplo",
+				"uploads/pdf_upload.php"
+			],
+			[
+				"list",
+				"js/views/vehicles/list.js"
+			],
+			[
+				"vehicl",
+				"js/views/dealers/vehicles.js"
+			],
+			[
+				"vehicle",
+				"js/models/vehicle.js"
+			],
+			[
+				"listjs",
+				"js/views/vehicles/list.js"
+			],
+			[
+				"side",
+				"js/views/ui/sidebar.js"
+			],
+			[
+				"indivi",
+				"js/templates/vehicles/individual_detail.html"
+			],
+			[
+				"deta",
+				"js/templates/vehicles/detail.html"
+			],
+			[
+				"helper",
+				"js/libs/helpers.js"
+			],
+			[
+				"indiv",
+				"js/templates/vehicles/individual_detail.html"
+			],
+			[
+				"detail",
+				"js/templates/vehicles/detail.html"
+			],
+			[
+				"sidebar",
+				"js/templates/ui/sidebar.html"
+			],
+			[
+				"lang",
+				"js/langs.js"
+			],
+			[
+				"vehiclapi",
+				"api/mongo/vehicles/api.php"
+			],
+			[
+				"langjs",
+				"js/langs.js"
+			],
+			[
+				"pin",
+				"js/templates/ui/sidebar_pin.html"
+			],
+			[
+				"kevide",
+				"golang/src/dna/ke/video_test.go"
+			],
+			[
+				"kealbu",
+				"golang/src/dna/ke/album_test.go"
+			],
+			[
+				"csnsong",
+				"golang/src/dna/csn/song.go"
+			],
+			[
+				"hdv",
+				"golang/src/dna/hdv/episode_test.go"
+			],
+			[
+				"zia",
+				"golang/src/dna/zi/apifuncs_test.go"
+			],
+			[
+				"zivie",
+				"golang/src/dna/zi/video_test.go"
+			],
+			[
+				"tmp/am",
+				"tmp/am.go"
+			],
+			[
+				"sql",
+				"golang/log/sql_error.log"
+			],
+			[
+				"am/",
+				"golang/src/dna/am/apialbum_test.go"
+			],
+			[
+				"amdoc",
+				"golang/src/dna/am/doc.go"
+			],
+			[
+				"site",
+				"golang/src/dna/site/site.go"
+			],
+			[
+				"nsong",
+				"golang/src/dna/ns/song.go"
+			],
+			[
+				"nssong",
+				"golang/src/dna/ns/song.go"
+			],
+			[
+				"india",
+				"tmp/indiabix.go"
+			],
+			[
+				"siteini",
+				"golang/config/sites.ini"
+			],
+			[
+				"sqlpgtest",
+				"golang/src/dna/sqlpg/funcs_test.go"
+			],
+			[
+				"sqlpg",
+				"golang/src/dna/sqlpg/funcs.go"
+			],
+			[
+				"sqlpgfun",
+				"golang/src/dna/sqlpg/funcs.go"
+			],
+			[
+				"cosntant",
+				"golang/src/dna/media/constants.go"
+			],
+			[
+				"utils",
+				"golang/src/dna/utils/func.go"
+			],
+			[
+				"tmpzi",
+				"tmp/zi.go"
+			],
+			[
+				"updatecha",
+				"golang/src/dna/site/update_chacha.go"
+			],
+			[
+				"zit",
+				"golang/src/dna/zi/tv.go"
+			],
+			[
+				"sqler",
+				"golang/log/sql_error.log"
+			],
+			[
+				"am/api",
+				"golang/src/dna/am/apialbum_test.go"
+			],
+			[
+				"nctalbum",
+				"golang/src/dna/nct/album_test.go"
+			],
+			[
+				"zialbum",
+				"golang/src/dna/zi/album_test.go"
+			],
+			[
+				"zisongte",
+				"golang/src/dna/zi/song_test.go"
+			],
+			[
+				"zisong",
+				"golang/src/dna/zi/song.go"
+			],
+			[
+				"ziapi",
+				"golang/src/dna/zi/api.go"
+			],
+			[
+				"ziget",
+				"golang/src/dna/zi/song_test.go"
+			],
+			[
+				"tmp/zi",
+				"tmp/zi.go"
+			],
+			[
+				"ziapif",
+				"golang/src/dna/zi/apifuncs.go"
+			],
+			[
+				"zitest",
+				"golang/src/dna/zi/apifuncs_test.go"
+			],
+			[
+				"hdvep",
+				"golang/src/dna/hdv/episode_test.go"
+			],
+			[
+				"hdv_test",
+				"golang/src/dna/hdv/movie_test.go"
+			],
+			[
+				"kevideo",
+				"golang/src/dna/ke/video_test.go"
+			],
+			[
+				"kesong",
+				"golang/src/dna/ke/song_test.go"
+			],
+			[
+				"kep",
+				"golang/src/dna/ke/post_test.go"
+			],
+			[
+				"ke/album",
+				"golang/src/dna/ke/album_test.go"
+			],
+			[
+				"doc.go",
+				"golang/src/dna/media/doc.go"
+			],
+			[
+				"tables.co",
+				"golang/src/dna/tables/doc.go"
+			],
+			[
+				"test",
+				"golang/test.go"
+			],
+			[
+				"tabledoc",
+				"golang/src/dna/tables/doc.go"
+			],
+			[
+				"mediaconst",
+				"golang/src/dna/media/constants.go"
+			],
+			[
+				"topic",
+				"golang/topics.js"
+			],
+			[
+				"ke/lyric",
+				"golang/src/dna/ke/lyric_test.go"
+			],
+			[
+				"dna/ke/lyr",
+				"golang/src/dna/ke/lyric.go"
+			],
+			[
+				"meidadoc",
+				"golang/src/dna/media/doc.go"
+			],
+			[
+				"main.go",
+				"golang/main.go"
+			],
+			[
+				"csntest",
+				"golang/src/dna/csn/video_test.go"
+			],
+			[
+				"tmp",
+				"tmp/hdviet.go"
+			],
+			[
+				"dna/string",
+				"golang/src/dna/string.go"
+			],
+			[
+				"tmpcsn",
+				"tmp/csn.go"
+			],
+			[
+				"link",
+				"golang/src/dna/csn/link_formats.go"
+			],
+			[
+				"tables",
+				"golang/src/dna/tables/doc.go"
+			],
+			[
+				"main.g",
+				"golang/main.go"
+			],
+			[
+				"ketest",
+				"golang/src/dna/ke/post_test.go"
+			],
+			[
+				"tables/",
+				"golang/src/dna/tables/doc.go"
+			],
+			[
+				"upsert",
+				"golang/scripts/upsert_hashids.sh"
+			],
+			[
+				"slq",
+				"golang/log/sql_error.log"
+			],
+			[
+				"main",
+				"golang/main.go"
+			],
+			[
+				"csnvideo",
+				"golang/src/dna/csn/video_test.go"
+			],
+			[
+				"hdviet",
+				"golang/src/dna/hdv/episode_test.go"
+			],
+			[
+				"kealbumtest",
+				"golang/src/dna/ke/album_test.go"
+			],
+			[
+				"ketet",
+				"golang/src/dna/ke/post_test.go"
+			],
+			[
+				"ziusers",
+				"golang/src/dna/zi/user_test.go"
+			],
+			[
+				"mediadoc",
+				"golang/src/dna/media/doc.go"
+			],
+			[
+				"mediadc",
+				"golang/src/dna/media/doc.go"
+			],
+			[
+				"mediavar",
+				"golang/src/dna/media/variables.go"
+			],
+			[
+				"scripts/bk",
+				"golang/scripts/bk/artists.sh"
+			],
+			[
+				"mediaref",
+				"golang/src/dna/media/ref.go"
+			],
+			[
+				"media",
+				"golang/src/dna/media/constants.go"
+			],
+			[
+				"mediasour",
+				"golang/src/dna/media/source.go"
+			],
+			[
+				"keapi",
+				"golang/src/dna/ke/api.go"
+			],
+			[
+				"kearti",
+				"golang/src/dna/ke/artist.go"
+			],
+			[
+				"tmpmedi",
+				"tmp/media.go"
+			],
+			[
+				"mem",
+				"golang/memory.sh"
+			],
+			[
+				"kevideotes",
+				"golang/src/dna/ke/video_test.go"
+			],
+			[
+				"kesongte",
+				"golang/src/dna/ke/song_test.go"
+			],
+			[
+				"ziusertes",
+				"golang/src/dna/zi/user_test.go"
+			],
+			[
+				"lwdoc",
+				"golang/src/dna/lw/doc.go"
+			],
+			[
+				"lfdoc",
+				"golang/src/dna/lf/doc.go"
+			],
+			[
+				"ziusertest",
+				"golang/src/dna/zi/user_test.go"
+			],
+			[
+				"ziapifun",
+				"golang/src/dna/zi/apifuncs.go"
+			],
+			[
+				"zisongtest",
+				"golang/src/dna/zi/song_test.go"
+			],
+			[
+				"ziuser",
+				"golang/src/dna/zi/user.go"
+			],
+			[
+				"lyric",
+				"golang/lyricfinds.sh"
+			],
+			[
+				"sfapi",
+				"golang/src/dna/sf/apitrack_test.go"
+			],
+			[
+				"siteva",
+				"golang/src/dna/site/vars.go"
+			],
+			[
+				"site.go",
+				"golang/src/dna/site/site.go"
+			],
+			[
+				"update",
+				"golang/src/dna/site/update_keeng.go"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 867.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 182.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
