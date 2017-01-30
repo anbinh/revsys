@@ -1,3 +1,11 @@
+
+
+frontend:
+  image: binhdna/node-web-app
+  ports:
+   - "8080:8080"
+  links:
+   - mysql:mydatabase
 mysql:
   image: binhdna/mysql
   ports:
@@ -7,10 +15,3 @@ mysql:
     MYSQL_USER: dbuser
     MYSQL_PASSWORD: userpass
     MYSQL_DATABASE: myimage_db
-frontend:
-  image: binhdna/node-web-app
-  working_dir: /usr/src/app
-  ports:
-   - "8080:8080"
-  links:
-   - "mysql"
